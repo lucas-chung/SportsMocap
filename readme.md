@@ -1,6 +1,6 @@
 # 简介
 
-本次项目基于[PIP]([pip](https://github.com/Xinyu-Yi/PIP))模型用于对运动员运动姿势的捕捉，并在模型后面再训练一个分类头，用于对运动姿势的评价。
+本次项目基于[PIP]([新建标签页 (github.com)](https://github.com/Xinyu-Yi/PIP))模型用于对运动员运动姿势的捕捉，并在模型后面再训练一个分类头，用于对运动姿势的评价。
 
 ![image-20230118204337727](./img/pip.png)
 
